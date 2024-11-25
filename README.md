@@ -65,5 +65,3 @@ The customer segmentation analysis highlights distinct customer groups with uniq
 - **Code**: Python code for data preprocessing, clustering, and analysis.
 - **Dataset**: Segmented customer data.
 - **Visualizations**: Charts and graphs summarizing the clustering results.
-
-This report demonstrates the value of customer segmentation and serves as an example of using data analytics for business decision-making.
